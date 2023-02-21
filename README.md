@@ -1,4 +1,4 @@
-# GameDie
+# Roller
 
 This repository provides a program that rolls a game die, such as the
 six-sided dice used in traditional dice game.
